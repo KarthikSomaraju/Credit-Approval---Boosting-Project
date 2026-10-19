@@ -40,9 +40,11 @@ Banks must decide quickly whether to approve or reject each credit card applicat
 pip install ucimlrepo xgboost catboost lightgbm scikit-learn pandas numpy matplotlib seaborn
 jupyter notebook Credit_Approval_Boosting_trimmed.ipynb
 ```
-## collab link -https://colab.research.google.com/drive/1MeLx-YDbhPQOl0p106mVrMqXKmRpdj1E?usp=sharing
 The dataset is downloaded automatically with the `ucimlrepo` package, so no file upload is needed.
 
 ## Author
 
 Karthik Somaraju
+
+## Google Collab link
+https://colab.research.google.com/drive/1MeLx-YDbhPQOl0p106mVrMqXKmRpdj1E?usp=sharing
